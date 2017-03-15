@@ -45,4 +45,7 @@ _book
 
 Pods/
 
+# Bundler
+.bundle/
+
 .vscode
